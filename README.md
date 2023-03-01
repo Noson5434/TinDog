@@ -29,4 +29,4 @@ Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
 
 Live Demo: [demo](https://example.com){target="_blank"} //markdown
 
-Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
+Live Demo: <a href="https://example.com">demo</a> //html
