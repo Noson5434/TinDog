@@ -213,7 +213,8 @@ body {
 /* Media Query */
 
 @media (max-width: 1350px) {
-  #title {
+  #title,
+  .title-heading {
     text-align: center;
   }
 
