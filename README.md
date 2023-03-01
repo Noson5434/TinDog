@@ -23,4 +23,4 @@ A website to find cute dog's nearby.
 
 ## Link
 
- <a href="https://noson5434.github.io/TinDog/" target="_blank" rel="noopener"> ***Click Here*** </a>
+ <a href="https://noson5434.github.io/TinDog/" target="_blank"> ***Click Here*** </a>
